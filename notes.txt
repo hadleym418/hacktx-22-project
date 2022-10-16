@@ -1,0 +1,12 @@
+MACHINE LEARNING
+- create rules ex. if puppy has eyes
+- classical programing: rules+data=answers
+- machien learning: data+answers=rules
+- Use rules to make predictions
+- google cloud has machine learning APIs
+  - google has already made models
+
+CLOUD FIRESTORE
+- NoSQL realtime database
+- only write key value pairs to database
+- 
