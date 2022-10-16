@@ -1,21 +1,26 @@
-chrome.runtime.onMessage.addListner(function (request, sender, sendResponse) {
-    if (request == 'dance_on') {
-        insertMushroom()
-        alert('message recieved')
-    }
-})
+// chrome.runtime.onMessage.addListner(function (request, sender, sendResponse) {
+//     if (request == 'dance_on') {
+//         insertMushroom()
+//         alert('message recieved')
+//     }
+// })
 
-function insertMushroom () {
+// function insertMushroom () {
     
-    // insert GIF
-    var data = '<iframe src="https://media.giphy.com/media/zhS4PEVVuFnbG718kV/giphy.gif"'
+//     // insert GIF
+//     var data = '<iframe src="https://media.giphy.com/media/zhS4PEVVuFnbG718kV/giphy.gif"'
 
-    var mushroomBox = document.createElement('div')
+//     var mushroomBox = document.createElement('div')
 
-    mushroomBox.innerHTML = data
+//     mushroomBox.innerHTML = data
 
-    document.body.appendChild(mushroomBox)
-}
+//     document.body.appendChild(mushroomBox)
+// }
+
+
+
+
+
 
 /*
 // waiting/listening for a message from popup.js
