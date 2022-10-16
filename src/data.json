@@ -1,0 +1,4247 @@
+{
+  "domains": [
+    {
+      "domain": "bananarepublic.com",
+      "count": 219,
+      "read": 37,
+      "emails": [
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": true,
+          "timeStamp": "1665868037000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665831849000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665781438000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665749293000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665727347000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665666635000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665608822000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665580112000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665515019000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665486188000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665435897000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665410946000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665349626000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665324287000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665263028000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665237804000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665176636000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665148193000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665094101000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1665057867000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664996566000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664971679000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664942565000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664885292000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664834851000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664799174000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664748407000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664716008000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664650926000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664625994000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664571830000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664543218000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664492616000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664456899000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": true,
+          "timeStamp": "1664391718000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664363018000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664319805000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664276562000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664226214000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664212292000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664194003000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664147165000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664107634000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664049782000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1664024842000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663985029000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663938399000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663884410000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663852047000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663805157000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663790766000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663758225000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663729547000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663708145000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663682668000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663621466000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663589328000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663535024000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663509882000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663448599000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663427142000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663362339000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663330018000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663283039000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663243598000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663189385000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "\"Banana Republic Friends & Family\" <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663174955000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663103031000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663070788000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1663020395000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662984346000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662930198000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662898035000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662847747000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662847683000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662815201000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662762026000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662761051000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662728973000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": true,
+          "timeStamp": "1662674629000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662642373000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662588410000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662556031000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662505645000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662469655000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662415686000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662383491000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662329193000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662297074000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662242807000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662210627000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662156447000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662124172000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662070140000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <orders@email.bananarepublic.com>",
+          "openStatus": true,
+          "timeStamp": "1662057728000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1662037745000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661983687000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <orders@email.bananarepublic.com>",
+          "openStatus": true,
+          "timeStamp": "1661964088000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661951418000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661888404000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661810933000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661778502000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661724477000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661692187000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661638135000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661605786000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661552144000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661519275000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661465346000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661447676000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661432824000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661378983000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661346573000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661292425000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661260225000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661206057000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661173859000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661119665000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661087228000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661033203000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1661000995000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660946798000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660914592000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660860418000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660828022000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660774038000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660741834000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660687619000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660655237000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660601227000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660569097000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660515118000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660482619000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660428445000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660396223000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660342057000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660309902000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660255588000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660223187000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660169234000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660137036000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660082898000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1660050602000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659996455000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659964184000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659910010000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659877798000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659823628000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659791412000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659737188000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659726482000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659704960000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659650794000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659618446000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659564536000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659553737000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659532130000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659477990000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659445746000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659391646000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659359210000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659305263000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659272889000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659218820000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659186484000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659132338000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659100043000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659046109000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1659013632000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658959690000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658948877000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658927491000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658873221000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658840997000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658786839000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658754633000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658700444000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658689733000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658668096000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658624699000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658578052000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658527665000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658495424000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658462560000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658405173000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658343708000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658318845000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658264635000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658236121000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658178267000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658160178000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658106439000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": true,
+          "timeStamp": "1658092096000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658063528000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1658037691000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657980362000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657929824000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657890546000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657864884000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657832741000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657804339000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657771344000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657717661000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657667682000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657659851000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657634618000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657569748000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657522946000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657497744000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657487161000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657454831000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657411384000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657368395000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657314276000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657285660000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657231737000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657199389000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657152713000"
+        },
+        {
+          "fullDomain": "email.bananarepublic.com",
+          "author": "Banana Republic <bananarepublic@email.bananarepublic.com>",
+          "openStatus": false,
+          "timeStamp": "1657145235000"
+        }
+      ]
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 186,
+      "emails": [
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665883222000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1665874605000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665871297000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665871296000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665772527000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665713480000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665710097000"
+        },
+        {
+          "fullDomain": "e.linkedin.com",
+          "author": "LinkedIn <linkedin@e.linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665685609000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665626743000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665626743000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665625848000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665614351000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665526182000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665526182000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665453049000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665450896000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665445971000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665445972000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665429578000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665427556000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665382377000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665266614000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665266614000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665241003000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665179481000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665179470000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665166494000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665129871000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665129871000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665105300000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665093328000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665093328000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Creative Circle via LinkedIn <newsletters-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665076268000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665018909000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665015297000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665006569000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1665006569000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664997929000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Hugo Ortiz Clemens <invitations@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1664987701000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664934645000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664920169000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664920170000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664849163000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664847319000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664828073000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664816289000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Angel Zuniga Martinez <invitations@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1664763595000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664747702000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1664747701000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664737549000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664661320000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664661319000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664650605000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664587172000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664586967000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664586967000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664564187000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664554210000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664500495000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664489910000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664489910000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664416245000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664415119000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664399600000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664399600000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664392936000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Gurkaran Gulati <invitations@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664340011000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664324096000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664290970000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664290970000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664243448000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664241295000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664228921000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664228922000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Dylan Byrne <invitations@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664223380000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664217553000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664214083000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664108526000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664108526000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664071391000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664057595000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664057595000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1664045804000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663979381000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663979381000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663957718000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663895698000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663862923000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663862922000"
+        },
+        {
+          "fullDomain": "e.linkedin.com",
+          "author": "LinkedIn <linkedin@e.linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663852576000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Vimeo via LinkedIn <newsletters-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663846581000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663813506000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663804012000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663725047000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Blake Ditto <invitations@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1663712115000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663711321000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663711320000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Kayla and Krista Kummerl <invitations@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1663698921000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663663446000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663663446000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663638646000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663636510000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663632898000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663620133000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663614134000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Meshary Almazyad via LinkedIn <messaging-digest-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663582339000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663538793000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663538792000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663451404000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663451404000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663426603000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663368185000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663368185000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663353607000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663290899000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663280356000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663280356000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1663214878000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663206180000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663206180000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663204498000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Chrissy Milich <hit-reply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663178435000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663115733000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663115732000"
+        },
+        {
+          "fullDomain": "e.linkedin.com",
+          "author": "LinkedIn <linkedin@e.linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663072394000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1663046719000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663031695000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663026136000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663026136000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1663025785000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Chrissy Milich <inmail-hit-reply@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1663002043000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Madeleine Sullivan via LinkedIn <invitations@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662992094000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662941693000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662933700000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662933699000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Meshary Almazyad via LinkedIn <messaging-digest-noreply@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1662922280000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Rahul Karuturi via LinkedIn <invitations@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1662920293000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662917836000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Vivian Nguyen via LinkedIn <invitations@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1662916167000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Emily Vo via LinkedIn <invitations@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1662914168000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662865004000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662846164000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662846164000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662832492000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662772499000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662764145000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662764145000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662749998000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Katherine Yancey <invitations@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1662746320000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662686094000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Mckenzie Bentley via LinkedIn <invitations@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662683983000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662679524000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662679524000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662661090000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662606592000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662606592000"
+        },
+        {
+          "fullDomain": "e.linkedin.com",
+          "author": "LinkedIn <linkedin@e.linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662570378000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662599699000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1662590610000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662526619000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662502230000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662502230000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662429046000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662426903000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662426898000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662421110000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662421110000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662409186000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "\"Dr. JME- Edwards\" <invitations@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1662394246000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662328585000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662328585000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662243456000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662243456000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <notifications-noreply@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1662217004000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "Meshary Almazyad via LinkedIn <messaging-digest-noreply@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1662194530000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662167699000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662166044000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662166044000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662149134000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <messages-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662081296000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662069326000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1662069326000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1661998141000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1661998141000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <updates-noreply@linkedin.com>",
+          "openStatus": false,
+          "timeStamp": "1661994895000"
+        },
+        {
+          "fullDomain": "linkedin.com",
+          "author": "LinkedIn <jobs-listings@linkedin.com>",
+          "openStatus": true,
+          "timeStamp": "1661974248000"
+        }
+      ]
+    },
+    {
+      "domain": "instagram.com",
+      "count": 111,
+      "emails": [
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1665881133000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1665847446000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1665782515000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1665759915000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1665629893000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1665545335000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1665526998000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1665251574000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1665110440000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1664963588000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1664902353000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1664680491000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1664600265000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1664507933000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1664484456000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1664402256000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1664335855000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1664234666000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663965818000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663890255000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663860464000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663851315000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663828034000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663724546000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663708167000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663342037000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663319686000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663276988000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663156780000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663092987000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663068025000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1663005532000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <security@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662914638000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662907556000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662878150000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662774318000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662770876000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662707450000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662674148000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662504707000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662442643000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662418603000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662329227000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <security@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662136133000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662096871000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1662067532000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1661993617000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1661804268000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1661799343000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1661671862000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1661662700000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1661518888000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1661337576000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1661315237000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1661025966000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660829261000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660769169000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660740858000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660622245000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660587505000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660476069000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660448003000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660399548000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660320915000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660186839000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660171863000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660157086000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1660100392000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659856503000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659843199000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659824697000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659726834000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659697350000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659665595000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659594603000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659588955000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659528789000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659476624000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659474724000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659372685000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659370050000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659047153000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659031494000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1659021729000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658961239000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658934334000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658913731000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658866214000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <security@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658824510000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658683536000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658555965000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658534577000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658398798000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658340812000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658268458000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658222031000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658105316000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658092569000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658050647000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658013879000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1658011621000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1657939336000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1657837595000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1657806446000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1657719790000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1657698465000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1657566625000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1657541811000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1657528212000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1657514898000"
+        },
+        {
+          "fullDomain": "mail.instagram.com",
+          "author": "Instagram <no-reply@mail.instagram.com>",
+          "openStatus": false,
+          "timeStamp": "1657155336000"
+        }
+      ]
+    },
+    {
+      "domain": "shoprunner.com",
+      "count": 85,
+      "emails": [
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": true,
+          "timeStamp": "1665865831000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665835252000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665777898000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665748873000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665697923000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665576255000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665527441000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665506929000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665436517000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665234034000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665176183000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665097761000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665057655000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1665003698000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1664919951000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1664831123000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1664712743000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1664626671000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1664578830000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1664483487000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1664449222000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1664388350000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1664233201000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1664154021000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1664031855000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1663883249000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1663798925000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1663789386000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1663689747000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1663624874000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1663617431000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1663419688000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1663358643000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1663287957000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1663175062000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1663102975000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1663026889000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662933661000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662930263000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662752242000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662680275000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662499648000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662469501000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662404709000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662386443000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662318166000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662296698000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662217332000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662152635000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1662067979000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1661907840000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1661806670000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1661716952000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1661519011000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1661469196000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1661015003000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660866572000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660778277000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660773500000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660685656000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660604625000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660482892000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660403223000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660319008000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "Marc Jackson <research@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660313083000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": true,
+          "timeStamp": "1660260540000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660246763000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660192498000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660154293000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1660085965000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1659888386000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1659731993000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1659668739000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1659539160000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1659276086000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1658851863000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1658697212000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1658522203000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1658351070000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1657919562000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1657634801000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1657587772000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1657483530000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1657312493000"
+        },
+        {
+          "fullDomain": "shoprunner.com",
+          "author": "ShopRunner <shoprunner@shoprunner.com>",
+          "openStatus": false,
+          "timeStamp": "1657236075000"
+        }
+      ]
+    },
+    {
+      "domain": "brainpickings.org",
+      "count": 29,
+      "emails": [
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"Maria Popova | The Marginalian\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1665889188000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"Maria Popova | The Marginalian\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1665583248000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"Maria Popova | The Marginalian\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1665284426000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"Maria Popova | The Marginalian\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1664978433000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"Maria Popova | The Marginalian\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1664679602000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"Maria Popova | The Marginalian\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1664377228000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"Maria Popova | The Marginalian\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1664074796000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"Maria Popova | The Marginalian\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1663768908000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"Maria Popova | The Marginalian\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1663470002000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"Maria Popova | The Marginalian\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1663169387000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"Maria Popova | The Marginalian\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1662865185000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian by Maria Popova <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1662559224000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian by Maria Popova <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1662260385000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian by Maria Popova <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1661956192000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian by Maria Popova <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1661651986000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian by Maria Popova <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1661351385000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian by Maria Popova <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1661047188000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian by Maria Popova <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1660744814000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian by Maria Popova <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1660445991000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian by Maria Popova <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1660140019000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian by Maria Popova <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1659837588000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian by Maria Popova <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1659543295000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"The Marginalian (formerly Brain Pickings)\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1659236395000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"The Marginalian (formerly Brain Pickings)\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1658932192000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian by Maria Popova <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1658629788000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"The Marginalian | midweek pick-me-up\" <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1658328277000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian weekly <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1658026794000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "The Marginalian midweek pick-me-up <newsletter@brainpickings.org>",
+          "openStatus": false,
+          "timeStamp": "1657729790000"
+        },
+        {
+          "fullDomain": "brainpickings.org",
+          "author": "\"The Marginalian (formerly Brain Pickings)\" <newsletter@brainpickings.org>",
+          "openStatus": true,
+          "timeStamp": "1657400406000"
+        }
+      ]
+    },
+    {
+      "domain": "google.com",
+      "count": 22,
+      "emails": [
+        {
+          "fullDomain": "google.com",
+          "author": "The Google Account Team <google-noreply@google.com>",
+          "openStatus": false,
+          "timeStamp": "1665897168000"
+        },
+        {
+          "fullDomain": "accounts.google.com",
+          "author": "Google <no-reply@accounts.google.com>",
+          "openStatus": false,
+          "timeStamp": "1665897106000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "Google Maps <google-maps-noreply@google.com>",
+          "openStatus": false,
+          "timeStamp": "1665476214000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "Google Maps <google-maps-noreply@google.com>",
+          "openStatus": false,
+          "timeStamp": "1665405148000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "\"Ekaterina Shanina (via Google Maps)\" <noreply-location-sharing+96e965ba@google.com>",
+          "openStatus": false,
+          "timeStamp": "1665251296000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "Google Voice <voice-noreply@google.com>",
+          "openStatus": false,
+          "timeStamp": "1665037927000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "Google Voice <voice-noreply@google.com>",
+          "openStatus": false,
+          "timeStamp": "1664346685000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "Google Local Guides <noreply-local-guides@google.com>",
+          "openStatus": false,
+          "timeStamp": "1663857402000"
+        },
+        {
+          "fullDomain": "accounts.google.com",
+          "author": "Google <no-reply@accounts.google.com>",
+          "openStatus": false,
+          "timeStamp": "1662758518000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "Google Voice <voice-noreply@google.com>",
+          "openStatus": true,
+          "timeStamp": "1662352792000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "The Google Account Team <google-noreply@google.com>",
+          "openStatus": false,
+          "timeStamp": "1662099139000"
+        },
+        {
+          "fullDomain": "accounts.google.com",
+          "author": "Google <no-reply@accounts.google.com>",
+          "openStatus": false,
+          "timeStamp": "1662099077000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "Google Local Guides <noreply-local-guides@google.com>",
+          "openStatus": false,
+          "timeStamp": "1661438539000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "Google Voice <voice-noreply@google.com>",
+          "openStatus": true,
+          "timeStamp": "1659967096000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "Google <google-noreply@google.com>",
+          "openStatus": false,
+          "timeStamp": "1659897199000"
+        },
+        {
+          "fullDomain": "accounts.google.com",
+          "author": "Google <no-reply@accounts.google.com>",
+          "openStatus": false,
+          "timeStamp": "1659624733000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "The Google Account Team <google-noreply@google.com>",
+          "openStatus": false,
+          "timeStamp": "1659623404000"
+        },
+        {
+          "fullDomain": "accounts.google.com",
+          "author": "Google <no-reply@accounts.google.com>",
+          "openStatus": false,
+          "timeStamp": "1659623342000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "Google Location History <location-history-noreply@google.com>",
+          "openStatus": false,
+          "timeStamp": "1658476261000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "I Love Typography <noreply+feedproxy@google.com>",
+          "openStatus": false,
+          "timeStamp": "1658335258000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "Google Voice <voice-noreply@google.com>",
+          "openStatus": false,
+          "timeStamp": "1658263462000"
+        },
+        {
+          "fullDomain": "google.com",
+          "author": "I Love Typography <noreply+feedproxy@google.com>",
+          "openStatus": false,
+          "timeStamp": "1657315651000"
+        }
+      ]
+    },
+    {
+      "domain": "primevideo.com",
+      "count": 18,
+      "emails": [
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1665864630000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1665761157000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1665423430000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1665277250000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1664683853000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1664077984000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1663950557000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1663436198000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1663097012000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1662836706000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1662430364000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1662132622000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1661564336000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1661268359000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1660939444000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1660338757000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1659199283000"
+        },
+        {
+          "fullDomain": "primevideo.com",
+          "author": "Prime Video <no-reply@primevideo.com>",
+          "openStatus": false,
+          "timeStamp": "1658592448000"
+        }
+      ]
+    },
+    {
+      "domain": "lyftmail.com",
+      "count": 12,
+      "emails": [
+        {
+          "fullDomain": "marketing.lyftmail.com",
+          "author": "Lyft <no-reply@marketing.lyftmail.com>",
+          "openStatus": true,
+          "timeStamp": "1665868614000"
+        },
+        {
+          "fullDomain": "marketing.lyftmail.com",
+          "author": "Lyft <no-reply@marketing.lyftmail.com>",
+          "openStatus": false,
+          "timeStamp": "1665263863000"
+        },
+        {
+          "fullDomain": "marketing.lyftmail.com",
+          "author": "Lyft <no-reply@marketing.lyftmail.com>",
+          "openStatus": false,
+          "timeStamp": "1663277632000"
+        },
+        {
+          "fullDomain": "marketing.lyftmail.com",
+          "author": "Lyft <no-reply@marketing.lyftmail.com>",
+          "openStatus": false,
+          "timeStamp": "1662672894000"
+        },
+        {
+          "fullDomain": "lyftmail.com",
+          "author": "Lyft <no-reply@lyftmail.com>",
+          "openStatus": false,
+          "timeStamp": "1661518124000"
+        },
+        {
+          "fullDomain": "lyftmail.com",
+          "author": "Lyft Receipts <no-reply@lyftmail.com>",
+          "openStatus": true,
+          "timeStamp": "1661380196000"
+        },
+        {
+          "fullDomain": "lyftmail.com",
+          "author": "Lyft <no-reply@lyftmail.com>",
+          "openStatus": false,
+          "timeStamp": "1661372066000"
+        },
+        {
+          "fullDomain": "marketing.lyftmail.com",
+          "author": "Lyft <no-reply@marketing.lyftmail.com>",
+          "openStatus": false,
+          "timeStamp": "1660594206000"
+        },
+        {
+          "fullDomain": "marketing.lyftmail.com",
+          "author": "Lyft <no-reply@marketing.lyftmail.com>",
+          "openStatus": false,
+          "timeStamp": "1659989061000"
+        },
+        {
+          "fullDomain": "marketing.lyftmail.com",
+          "author": "Lyft <no-reply@marketing.lyftmail.com>",
+          "openStatus": false,
+          "timeStamp": "1658967994000"
+        },
+        {
+          "fullDomain": "marketing.lyftmail.com",
+          "author": "Lyft <no-reply@marketing.lyftmail.com>",
+          "openStatus": false,
+          "timeStamp": "1658540876000"
+        },
+        {
+          "fullDomain": "lyftmail.com",
+          "author": "Lyft Receipts <no-reply@lyftmail.com>",
+          "openStatus": false,
+          "timeStamp": "1657214258000"
+        }
+      ]
+    },
+    {
+      "domain": "discord.com",
+      "count": 11,
+      "emails": [
+        {
+          "fullDomain": "discord.com",
+          "author": "Discord <notifications@discord.com>",
+          "openStatus": false,
+          "timeStamp": "1665882475000"
+        },
+        {
+          "fullDomain": "discord.com",
+          "author": "Discord <notifications@discord.com>",
+          "openStatus": true,
+          "timeStamp": "1665869985000"
+        },
+        {
+          "fullDomain": "discord.com",
+          "author": "Discord <notifications@discord.com>",
+          "openStatus": false,
+          "timeStamp": "1665781609000"
+        },
+        {
+          "fullDomain": "discord.com",
+          "author": "Discord <notifications@discord.com>",
+          "openStatus": true,
+          "timeStamp": "1665699826000"
+        },
+        {
+          "fullDomain": "discord.com",
+          "author": "Discord <noreply@discord.com>",
+          "openStatus": true,
+          "timeStamp": "1665688217000"
+        },
+        {
+          "fullDomain": "discord.com",
+          "author": "Discord <notifications@discord.com>",
+          "openStatus": false,
+          "timeStamp": "1658932189000"
+        },
+        {
+          "fullDomain": "discord.com",
+          "author": "Discord <notifications@discord.com>",
+          "openStatus": false,
+          "timeStamp": "1658838052000"
+        },
+        {
+          "fullDomain": "discord.com",
+          "author": "Discord <notifications@discord.com>",
+          "openStatus": false,
+          "timeStamp": "1658752491000"
+        },
+        {
+          "fullDomain": "discord.com",
+          "author": "Discord <notifications@discord.com>",
+          "openStatus": false,
+          "timeStamp": "1658659107000"
+        },
+        {
+          "fullDomain": "discord.com",
+          "author": "Discord <notifications@discord.com>",
+          "openStatus": false,
+          "timeStamp": "1658576315000"
+        },
+        {
+          "fullDomain": "discord.com",
+          "author": "Discord <notifications@discord.com>",
+          "openStatus": false,
+          "timeStamp": "1657208286000"
+        }
+      ]
+    },
+    {
+      "domain": "devpost.com",
+      "count": 4,
+      "emails": [
+        {
+          "fullDomain": "devpost.com",
+          "author": "Devpost <support@devpost.com>",
+          "openStatus": true,
+          "timeStamp": "1665893797000"
+        },
+        {
+          "fullDomain": "devpost.com",
+          "author": "Devpost <support@devpost.com>",
+          "openStatus": false,
+          "timeStamp": "1665893531000"
+        },
+        {
+          "fullDomain": "devpost.com",
+          "author": "Devpost <support@devpost.com>",
+          "openStatus": false,
+          "timeStamp": "1665892743000"
+        },
+        {
+          "fullDomain": "devpost.com",
+          "author": "Devpost <support@devpost.com>",
+          "openStatus": true,
+          "timeStamp": "1665892619000"
+        }
+      ]
+    }
+  ]
+}
