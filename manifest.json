@@ -4,7 +4,7 @@
   "description": "Take a look at your email analytics and easily erase unnecessary emails",
   "version": "1.0",
 
-  "page_action": {
+  "action": {
     "default_popup": "index.html", 
     "default_icon": {
       "128": "icon.png",
