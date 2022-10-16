@@ -1,9 +1,9 @@
-const fs = require('fs');
+import fs from 'fs';
 
 const fileData = fs.readFileSync('data.json', 'utf8');
 const oldData = JSON.parse(fileData);
 
-async function byDomain() {
+export async function byDomain() {
     const newData = {domains: []};
 
     for (let item of oldData.domains) {
@@ -35,7 +35,7 @@ async function byDomain() {
     return data;
 }
 
-async function byAuthor() {
+export async function byAuthor() {
     const newData = {authors: []};
     for (let item of oldData.domains) {
         const author = item.data.author.slice(item.data.author.indexOf('<') + 1, item.data.author.indexOf('>'));
@@ -63,7 +63,7 @@ async function byAuthor() {
     return data;
 }
 
-async function bySubDomain() {
+export async function bySubDomain() {
     const newData = {subDomains: []};
     for (let item of oldData.domains) {
         const subDomain = item.domain
