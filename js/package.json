@@ -1,0 +1,12 @@
+{
+    "name": "semantic-ui-example",
+    "version": "1.0.0",
+    "description": "An exported example from Semantic UI React, https://react.semantic-ui.com/",
+    "main": "index.js",
+    "dependencies": {
+      "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+      "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0",
+      "semantic-ui-react": "2.1.3",
+      "react-scripts": "latest"
+    }
+}
