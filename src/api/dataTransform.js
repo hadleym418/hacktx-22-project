@@ -1,7 +1,6 @@
-import fs from 'fs';
+import data from './data.json';
 
-const fileData = fs.readFileSync('data.json', 'utf8');
-const oldData = JSON.parse(fileData);
+const oldData = data;
 
 export async function byDomain() {
     const newData = {domains: []};

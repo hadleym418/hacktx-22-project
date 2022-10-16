@@ -7,10 +7,11 @@
     "build": "INLINE_RUNTIME_CHUNK=false react-scripts build"
   },
   "dependencies": {
+    "fs": "^0.0.1-security",
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
     "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0",
-    "semantic-ui-react": "2.1.3",
-    "react-scripts": "latest"
+    "react-scripts": "latest",
+    "semantic-ui-react": "2.1.3"
   },
   "browserslist": {
     "production": [
